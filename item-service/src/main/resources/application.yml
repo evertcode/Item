@@ -1,0 +1,25 @@
+server:
+  port: ${PORT:8002}
+  
+spring:
+  application:
+    name: item-service
+    
+    
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 20000
+
+ribbon: 
+  ReadTimeout: 3000
+  ConnectTimeout: 10000
+    
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka
+      

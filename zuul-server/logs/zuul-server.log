@@ -1,0 +1,70 @@
+2019-08-26 00:00:26.326  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:00:26.346  WARN 39576 --- [http-nio-8090-exec-6] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:00:28.767  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:00:28.767  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 24.25 seg
+2019-08-26 00:00:28.768  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 2425 ms
+2019-08-26 00:00:30.537  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:00:30.543  WARN 39576 --- [http-nio-8090-exec-8] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:00:32.584  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:00:32.584  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 20.42 seg
+2019-08-26 00:00:32.584  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 2042 ms
+2019-08-26 00:01:45.196  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:45.200  WARN 39576 --- [http-nio-8090-exec-1] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:45.264  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:45.265  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.67 seg
+2019-08-26 00:01:45.265  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 67 ms
+2019-08-26 00:01:46.718  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:46.721  WARN 39576 --- [http-nio-8090-exec-2] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:46.741  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:46.741  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.22 seg
+2019-08-26 00:01:46.741  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 22 ms
+2019-08-26 00:01:49.995  INFO 39576 --- [http-nio-8090-exec-3] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:49.996  WARN 39576 --- [http-nio-8090-exec-3] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:50.012  INFO 39576 --- [http-nio-8090-exec-3] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:50.013  INFO 39576 --- [http-nio-8090-exec-3] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.18 seg
+2019-08-26 00:01:50.013  INFO 39576 --- [http-nio-8090-exec-3] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 18 ms
+2019-08-26 00:01:52.156  INFO 39576 --- [http-nio-8090-exec-4] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:52.158  WARN 39576 --- [http-nio-8090-exec-4] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:52.176  INFO 39576 --- [http-nio-8090-exec-4] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:52.176  INFO 39576 --- [http-nio-8090-exec-4] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.2 seg
+2019-08-26 00:01:52.176  INFO 39576 --- [http-nio-8090-exec-4] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 20 ms
+2019-08-26 00:01:53.425  INFO 39576 --- [http-nio-8090-exec-5] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:53.427  WARN 39576 --- [http-nio-8090-exec-5] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:53.442  INFO 39576 --- [http-nio-8090-exec-5] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:53.443  INFO 39576 --- [http-nio-8090-exec-5] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.17 seg
+2019-08-26 00:01:53.443  INFO 39576 --- [http-nio-8090-exec-5] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 17 ms
+2019-08-26 00:01:54.524  INFO 39576 --- [http-nio-8090-exec-7] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:54.525  WARN 39576 --- [http-nio-8090-exec-7] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:54.541  INFO 39576 --- [http-nio-8090-exec-7] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:54.541  INFO 39576 --- [http-nio-8090-exec-7] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.17 seg
+2019-08-26 00:01:54.541  INFO 39576 --- [http-nio-8090-exec-7] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 17 ms
+2019-08-26 00:01:55.487  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:01:55.490  WARN 39576 --- [http-nio-8090-exec-6] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:01:55.534  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:01:55.534  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.45 seg
+2019-08-26 00:01:55.534  INFO 39576 --- [http-nio-8090-exec-6] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 45 ms
+2019-08-26 00:02:11.274  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:02:11.276  WARN 39576 --- [http-nio-8090-exec-8] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:02:11.296  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:02:11.297  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.22 seg
+2019-08-26 00:02:11.297  INFO 39576 --- [http-nio-8090-exec-8] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 22 ms
+2019-08-26 00:02:12.409  INFO 39576 --- [http-nio-8090-exec-9] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:02:12.411  WARN 39576 --- [http-nio-8090-exec-9] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:02:12.437  INFO 39576 --- [http-nio-8090-exec-9] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:02:12.437  INFO 39576 --- [http-nio-8090-exec-9] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.28 seg
+2019-08-26 00:02:12.437  INFO 39576 --- [http-nio-8090-exec-9] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 28 ms
+2019-08-26 00:02:26.449  INFO 39576 --- [http-nio-8090-exec-10] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:02:26.455  WARN 39576 --- [http-nio-8090-exec-10] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:02:26.470  INFO 39576 --- [http-nio-8090-exec-10] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:02:26.470  INFO 39576 --- [http-nio-8090-exec-10] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.2 seg
+2019-08-26 00:02:26.470  INFO 39576 --- [http-nio-8090-exec-10] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 20 ms
+2019-08-26 00:02:28.511  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:02:28.512  WARN 39576 --- [http-nio-8090-exec-1] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:02:28.603  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:02:28.604  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.93 seg
+2019-08-26 00:02:28.604  INFO 39576 --- [http-nio-8090-exec-1] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 93 ms
+2019-08-26 00:02:32.298  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PostTiempoTranscurridoFilter   : GET request enrutado a http://localhost:8090/api/item/detail/1/count/34
+2019-08-26 00:02:32.301  WARN 39576 --- [http-nio-8090-exec-2] o.s.c.n.z.f.r.s.AbstractRibbonCommand    : The Hystrix timeout of 20000ms for the command item-service is set lower than the combination of the Ribbon read and connect timeout, 26000ms.
+2019-08-26 00:02:32.323  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Entrando a POST filter
+2019-08-26 00:02:32.323  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en segundos 0.25 seg
+2019-08-26 00:02:32.323  INFO 39576 --- [http-nio-8090-exec-2] c.e.a.z.f.PreTiempoTranscurridoFilter    : Timepo transcurrido en milisegundos 25 ms

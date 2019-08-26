@@ -1,0 +1,22 @@
+2019-08-26 00:00:06.042  INFO 39570 --- [http-nio-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ITEM-SERVICE/192.168.0.100:item-service:8002 with status DOWN (replication=false)
+2019-08-26 00:00:06.561  INFO 39570 --- [http-nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ITEM-SERVICE/192.168.0.100:item-service:8002 with status DOWN (replication=true)
+2019-08-26 00:00:09.100  INFO 39570 --- [http-nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ITEM-SERVICE/192.168.0.100:item-service:8002 (replication=false)
+2019-08-26 00:00:09.605  WARN 39570 --- [http-nio-8761-exec-4] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: ITEM-SERVICE/192.168.0.100:item-service:8002
+2019-08-26 00:00:09.605  INFO 39570 --- [http-nio-8761-exec-4] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): ITEM-SERVICE - 192.168.0.100:item-service:8002
+2019-08-26 00:00:09.606  WARN 39570 --- [TaskBatchingWorker-target_localhost-18] c.n.eureka.cluster.ReplicationTask       : The replication of task ITEM-SERVICE/192.168.0.100:item-service:8002:Cancel@localhost failed with response code 404
+2019-08-26 00:00:09.607  WARN 39570 --- [TaskBatchingWorker-target_localhost-18] c.netflix.eureka.cluster.PeerEurekaNode  : ITEM-SERVICE/192.168.0.100:item-service:8002:Cancel@localhost: missing entry.
+2019-08-26 00:00:12.600  INFO 39570 --- [http-nio-8761-exec-1] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ITEM-SERVICE/192.168.0.100:item-service:8002 with status UP (replication=false)
+2019-08-26 00:00:13.113  INFO 39570 --- [http-nio-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ITEM-SERVICE/192.168.0.100:item-service:8002 with status UP (replication=true)
+2019-08-26 00:00:28.747  INFO 39570 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2019-08-26 00:01:28.749  INFO 39570 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2019-08-26 00:01:32.175  INFO 39570 --- [http-nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Registered instance PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f with status DOWN (replication=false)
+2019-08-26 00:01:32.685  INFO 39570 --- [http-nio-8761-exec-7] c.n.e.registry.AbstractInstanceRegistry  : Registered instance PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f with status DOWN (replication=true)
+2019-08-26 00:01:35.263  INFO 39570 --- [http-nio-8761-exec-2] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f (replication=false)
+2019-08-26 00:01:35.771  WARN 39570 --- [http-nio-8761-exec-4] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f
+2019-08-26 00:01:35.771  INFO 39570 --- [http-nio-8761-exec-4] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): PRODUCT-SERVICE - product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f
+2019-08-26 00:01:35.773  WARN 39570 --- [TaskBatchingWorker-target_localhost-18] c.n.eureka.cluster.ReplicationTask       : The replication of task PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f:Cancel@localhost failed with response code 404
+2019-08-26 00:01:35.775  WARN 39570 --- [TaskBatchingWorker-target_localhost-18] c.netflix.eureka.cluster.PeerEurekaNode  : PRODUCT-SERVICE/product-service:a3a6d7ff39d1a81e5ef647bc7cab5b2f:Cancel@localhost: missing entry.
+2019-08-26 00:01:39.492  INFO 39570 --- [http-nio-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Registered instance PRODUCT-SERVICE/product-service:a9e494909a9bd382efb21476812c61ae with status UP (replication=false)
+2019-08-26 00:01:40.002  INFO 39570 --- [http-nio-8761-exec-1] c.n.e.registry.AbstractInstanceRegistry  : Registered instance PRODUCT-SERVICE/product-service:a9e494909a9bd382efb21476812c61ae with status UP (replication=true)
+2019-08-26 00:02:28.751  INFO 39570 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2019-08-26 00:03:28.757  INFO 39570 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
